@@ -1,0 +1,92 @@
+{
+  "after_splash": {
+    "intro1": "We have all printers available",
+    "intro2": "We promise you everything you need",
+    "intro3": "We promise you everything you need"
+  },
+  "dialog": {
+    "done": "added successfully",
+    "press": "press ok to go to cart"
+  },
+  "logo": {
+    "name": "prent",
+    "title": "for prints rental"
+  },
+  "search": {
+    "show product": "show product",
+    "search your printer": "search your printer"
+  },
+  "product_screen": {
+    "Internet error": "no internet connection"
+  },
+  "home_page": {
+    "search": "search",
+    "printers": "printers",
+    "more": "more",
+    "cart": "add to cart",
+    "rmcart": "remove from cart"
+  },
+  "desc_page": {
+    "desc": "description",
+    "adv": "main advantages"
+  },
+  "cart": {
+    "cart": "cart",
+    "prod": "products",
+    "done": "complete process",
+    "no_data": "no product in cart"
+  },
+  "complete_form": {
+    "ok": "done",
+    "ok_done": "Confirmed",
+    "thanks1": "Thanks for completing the process with us,",
+    "thanks2": " we will contact you shortly soon",
+    "go_home": "go to home page"
+  },
+  "filters": {
+    "filter": "filter",
+    "no_result": "no results"
+  },
+  "check_out": {
+    "title": "complete transaction",
+    "Name": "name",
+    "phone number": "phone number",
+    "address": "address",
+    "company name": "company name",
+    "e_mail": "e-mail",
+    "your plan": "your plan",
+    "finish": "finish"
+  },
+  "drawer": {
+    "main": "main page",
+    "cart_shopping": "shopping cart",
+    "question": "common question",
+    "visit_website": "visit website",
+    "service": "service",
+    "about": "about",
+    "conditions": "conditions"
+  },
+  "complete_screen": {
+    "full_name": "full name",
+    "name": "name",
+    "e_mail": "e_mail",
+    "phone": "phone",
+    "name of company": "name of company",
+    "validation_event":"data is required",
+    "company": "company",
+    "start event":"start event",
+    "end event": "end event",
+    "An error occured try again?": "An error occured try again?",
+    "name is Required": "name is Required",
+    "date is Required": "date is Required",
+    "Mobile is Required": "Mobile is Required",
+    "Email is Required": "Email is Required",
+    "Email is Required1": "email is name@example.com",
+    "confirm3_mobile": "please enter valid number",
+    "Mobile is Required1": "mobile between 11:14",
+    "confirm transection": "confirm transection",
+    "Added to basket": "Added to basket",
+    "Go to the home page": "Go to the home page",
+    "Go to card": "Go to card"
+  }
+}

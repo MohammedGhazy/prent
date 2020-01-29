@@ -1,0 +1,93 @@
+{
+  "after_splash": {
+    "intro1": "يتوفر لدينا جميع الطابعات",
+    "intro2": "نعدك بكل ما يلزمك",
+    "intro3": "نعدك بكل ما يلزمك"
+  },
+  "dialog": {
+    "done": "تمت الإضافه إلي السله",
+    "press": "إضغط علي موافق للذهاب إلي السله"
+  },
+  "logo": {
+    "name": "برنت",
+    "title": "لتأجير الطابعات"
+  },
+  "search": {
+    "show product": "عرض المنتج",
+    "search your printer": "ابحث عن الطابعه التى تريدها"
+  },
+  "product_screen": {
+    "Internet error": "حدث خطأ في الإتصال بالإنترنت"
+  },
+  "home_page": {
+    "search": "البحث",
+    "printers": "طابعات",
+    "more": "المزيد",
+    "cart": "أضف إلي السله",
+    "rmcart": "أزل من السله"
+  },
+  "desc_page": {
+    "desc": "الوصف",
+    "adv": "المميزات الرئيسيه",
+    "similar_prints": "طابعات مماثله"
+  },
+  "cart": {
+    "cart": "السله",
+    "prod": "منتجات",
+    "done": "أتمم العمليه",
+    "no_data": "ليس هناك منتجات في السله"
+  },
+  "complete_form": {
+
+    "ok": "تمت",
+    "ok_done": "تم التأكيد",
+    "thanks1": "شكرا لإتمام العمليه معنا",
+    "thanks2": "سوف نتواصل معك في أقرب وقت",
+    "go_home": "الذهاب إلي الصفحه الرئيسيه"
+  },
+  "filters": {
+    "filter": "تخصيص",
+    "no_result": "لا يوجد نتائج مماثله"
+  },
+  "check_out": {
+    "title": "تأكيد العمليه",
+    "Name": "الإسم",
+    "phone number": "رقم الجوال",
+    "address": "العنوان",
+    "company name": "إسم الشركه",
+    "e_mail": "البريد الإلكتروني",
+    "your plan": "خططك",
+    "finish": "إنتهاء"
+  },
+  "drawer": {
+    "main": "الرئيسه",
+    "cart_shopping": "سله المشتريات",
+    "question": "الأسئله الشائعه",
+    "visit_website": "زور موقعنا",
+    "service": "الدعم",
+    "about": "عنا",
+    "conditions": "سياسه الخصوصيه"
+  },
+  "complete_screen": {
+    "full_name": "الإسم بالكامل",
+    "name": "الإسم",
+    "e_mail": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "name of company": "إسم المؤسسه",
+    "company": "إسم المؤسسه إن وجد",
+    "start event":"بدايه الحدث",
+    "end event": "نهايه الحدث",
+    "An error occured try again?": "حدث مشكله",
+    "name is Required": "الاسم المطلوب",
+    "date is Required": "التاريخ المطلوب",
+    "Mobile is Required": "رقم الهاتف مطلوب",
+    "Email is Required": "الايميل مطلوب",
+    "Mobile is Required1": "أدخل الرقم الهاتف صحيح",
+    "Email is Required1": "الايميل مطلوب غير صحيح",
+    "confirm transection": "تأكيد العمليه",
+    "confirm3_mobile": "أدخل رقم صحيح",
+    "Added to basket": "تمت الاضافه للسله",
+    "Go to the home page": "الذهاب للصفحه الرئيسية",
+    "Go to card": "الذهاب للسله"
+  }
+}
